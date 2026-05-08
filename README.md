@@ -21,9 +21,12 @@ Digitalizando 19 anos de experiência em gestão de operações complexas e otim
 
 | Projeto | Descrição | Status |
 | :--- | :--- | :--- |
-| **[Tesouraria_sis](https://github.com/Uildigital/Tesouraria_sis)** | Sistema financeiro multicamadas com roles de acesso (Admin, Fiscal), fluxo de aprovação e integração com Google Gemini AI. | `🟢 Em Produção` |
-| **[GMB Lead Capturer](https://github.com/Uildigital/GMB-Lead-Capturer)** | Automação de prospecção via Google Maps com n8n e Apify, estruturando dados em arquitetura de agentes para curadoria de leads. | `🟢 Funcional` |
-| **[Tech English](https://github.com/Uildigital/inglesTecnico)** | Plataforma de imersão técnica com síntese de voz e correção de respostas em tempo real via IA. | `🟡 Beta` |
+| **[💰 Tesouraria_sis](link-aqui)** | Sistema financeiro com workflows de aprovação e integração Gemini AI. | `🟢 Produção` |
+| **[🐾 Amor em Pet](link-aqui)** | Portal de adoção com Dashboard de BI e gestão de custos do Google Ads. | `🟢 Funcional` |
+| **[🌽 Chef Precision](link-aqui)** | ERP culinário para gestão de custos, precificação e escalonamento de receitas. | `🟢 Funcional` |
+| **[🧠 Tech English](link-aqui)** | App de imersão técnica com IA para preparação de certificações. | `🟡 Beta` |
+| **[🎯 Lead Capturer](link-aqui)** | Automação de prospecção via Google Maps com n8n e arquitetura de agentes. | `🟢 Funcional` |
+
 
 ---
 
