@@ -1,45 +1,44 @@
 # Olá, eu sou o Uiltemberg Duarte 👋
 
-### Especialista em Gestão de Operações | Consultor ServiceNow em Formação (CSA) | Desenvolvedor Full Stack
+### Analista de Processos & Automação | Construindo sistemas reais com n8n, Supabase e IA | Capgemini Start
 
-Com 19 anos de trajetória profissional nos **Correios**, especializei-me na liderança de operações complexas, gestão de ativos e otimização de processos de negócio. Atualmente, estou em transição para o ecossistema **ServiceNow**, unindo minha bagagem estratégica em GRC (Governança, Risco e Compliance) com o desenvolvimento de soluções inteligentes em nuvem.
+Digitalizando 19 anos de experiência em gestão de operações complexas e otimização de processos de negócio (Ex-Correios). Hoje, aplico essa visão estratégica para construir automações e sistemas funcionais de alta performance — não apenas protótipos, mas entregas reais em produção.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tech Stack & Ferramentas
 
-![ServiceNow](https://img.shields.io/badge/ServiceNow-CSA_Prep-293E40?style=for-the-badge&logo=servicenow&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-293E40?style=for-the-badge&logo=servicenow&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
-### 🚀 Projetos em Destaque
+### 🚀 Sistemas em Produção & Projetos
 
 | Projeto | Descrição | Status |
 | :--- | :--- | :--- |
-| **[Certificado Tech English](https://github.com/Uildigital/inglesTecnico)** | App de preparação para certificação ServiceNow CSA com análise de respostas via IA. | `Em Desenvolvimento` |
-| **[Tesouraria_sis](https://github.com/Uildigital/Tesouraria_sis)** | Sistema real de gestão financeira e prestação de contas desenvolvido para a Igreja Presbiteriana. | `Produção` |
-| **[GMB Lead Capturer](https://github.com/Uildigital/GMB-Lead-Capturer)** | Automação de prospecção e curadoria de leads utilizando n8n, Apify e arquitetura de agentes. | `MVP` |
+| **[Tesouraria_sis](https://github.com/Uildigital/Tesouraria_sis)** | Sistema financeiro multicamadas com roles de acesso (Admin, Fiscal), fluxo de aprovação e integração com Google Gemini AI. | `🟢 Em Produção` |
+| **[GMB Lead Capturer](https://github.com/Uildigital/GMB-Lead-Capturer)** | Automação de prospecção via Google Maps com n8n e Apify, estruturando dados em arquitetura de agentes para curadoria de leads. | `🟢 Funcional` |
+| **[Tech English](https://github.com/Uildigital/inglesTecnico)** | Plataforma de imersão técnica com síntese de voz e correção de respostas em tempo real via IA. | `🟡 Beta` |
 
 ---
 
 ### 🧠 Visão de Carreira
 
-Meu objetivo é atuar como **Consultor ServiceNow**, ajudando empresas a automatizarem seus fluxos de trabalho e garantirem conformidade operacional através da tecnologia. Acredito que a IA e a automação são as chaves para elevar a produtividade organizacional a um novo patamar.
+Meu foco é a **Excelência Operacional Digital**. Utilizo plataformas Enterprise (ServiceNow/Salesforce) e ferramentas de automação para transformar processos lentos e manuais em fluxos de trabalho inteligentes e auditáveis. Meu diferencial é entender o **negócio** antes de escrever o **código**.
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Uildigital&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-six-rebel.vercel.app/api/top-langs/?username=Uildigital&layout=compact&langs_count=7&theme=radical"/>
 </p>
-
 
 ---
 
@@ -48,4 +47,5 @@ Meu objetivo é atuar como **Consultor ServiceNow**, ajudando empresas a automat
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uiltemberg-duarte-61a057371)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uiltembergduarte@gmail.com)
 
-*"Transformando 19 anos de experiência operacional em excelência digital."*
+*"Transformando décadas de gestão operacional em inteligência digital."*
+
